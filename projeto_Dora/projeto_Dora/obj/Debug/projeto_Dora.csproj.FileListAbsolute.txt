@@ -1,0 +1,10 @@
+C:\Users\bz\source\repos\projeto_Dora\projeto_Dora\bin\Debug\projeto_Dora.exe.config
+C:\Users\bz\source\repos\projeto_Dora\projeto_Dora\bin\Debug\projeto_Dora.exe
+C:\Users\bz\source\repos\projeto_Dora\projeto_Dora\bin\Debug\projeto_Dora.pdb
+C:\Users\bz\source\repos\projeto_Dora\projeto_Dora\obj\Debug\projeto_Dora.csproj.AssemblyReference.cache
+C:\Users\bz\source\repos\projeto_Dora\projeto_Dora\obj\Debug\projeto_Dora.Form1.resources
+C:\Users\bz\source\repos\projeto_Dora\projeto_Dora\obj\Debug\projeto_Dora.Properties.Resources.resources
+C:\Users\bz\source\repos\projeto_Dora\projeto_Dora\obj\Debug\projeto_Dora.csproj.GenerateResource.cache
+C:\Users\bz\source\repos\projeto_Dora\projeto_Dora\obj\Debug\projeto_Dora.csproj.CoreCompileInputs.cache
+C:\Users\bz\source\repos\projeto_Dora\projeto_Dora\obj\Debug\projeto_Dora.exe
+C:\Users\bz\source\repos\projeto_Dora\projeto_Dora\obj\Debug\projeto_Dora.pdb
